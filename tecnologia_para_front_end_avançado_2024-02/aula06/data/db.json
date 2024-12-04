@@ -1,0 +1,19 @@
+{
+    "noticias": [
+        {
+            "id": 1,
+            "titulo": "tem aula amanha nao",
+            "texto": "alagou foi tudo a chuva"
+        },
+        {
+            "id": 2,
+            "titulo": "cancelamos as provas",
+            "texto": "cabou papel"
+        },
+        {
+            "id": 3,
+            "titulo": "so nota boa",
+            "texto": "alto desempenho dos alunos"
+        }
+    ]
+}
